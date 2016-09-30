@@ -1,0 +1,29 @@
+{
+    "1": {
+        "class": "MorphsuitsChecker",
+        "current_existance": false,
+        "current_price": 0,
+        "current_stock": -1,
+        "start_price": "1",
+        "start_stock": "1",
+        "url": "http://www.morphsuits.co.uk/pirate-sword-40cm"
+    },
+    "2": {
+        "class": "PartyramaChecker",
+        "current_existance": false,
+        "current_price": 0,
+        "current_stock": -1,
+        "start_price": "1",
+        "start_stock": "1",
+        "url": "http://www.partyrama.co.uk/skull-cardboard-face-mask-single/"
+    },
+    "3": {
+        "class": "MorphsuitsChecker",
+        "current_existance": false,
+        "current_price": 0,
+        "current_stock": -1,
+        "start_price": "1",
+        "start_stock": "1",
+        "url": "http://www.morphsuits.co.uk/pirate-sword-40cm2"
+    }
+}
